@@ -1,19 +1,19 @@
 {
-  "name": "angular-archwizard",
+  "name": "@y3krulez/angular-archwizard",
   "version": "8.0.0-develop",
   "license": "MIT",
-  "description": "An Angular 9+ module containing a wizard component and its supporting components and directives",
-  "homepage": "https://github.com/madoar/angular-archwizard",
+  "description": "The port of angular-archwizard, supporting IVY and thus being compatible with Angular16+",
+  "homepage": "https://github.com/CArnaboldi/angular-archwizard",
   "author": {
     "name": "Marc Arndt",
     "email": "marc.arndt@masimi.de"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/madoar/angular-archwizard"
+    "url": "https://github.com/CArnaboldi/angular-archwizard"
   },
   "bugs": {
-    "url": "https://github.com/madoar/angular-archwizard/issues"
+    "url": "https://github.com/CArnaboldi/angular-archwizard/issues"
   },
   "keywords": [
     "angular",

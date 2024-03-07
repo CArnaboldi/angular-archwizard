@@ -39,7 +39,6 @@
       }
     }
   },
-  "defaultProject": "angular-archwizard",
   "cli": {
     "analytics": false
   }

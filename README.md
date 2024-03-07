@@ -1,3 +1,6 @@
+# This is a port to Angular 16+ (IVY compatible)
+This version has been tested on angular 16+ since the original library (https://github.com/madoar/angular-archwizard) isn't maintained anymore.
+
 # Overview angular-archwizard
 [![Build Status](https://github.com/madoar/angular-archwizard/actions/workflows/build.yml/badge.svg?branch=develop)](https://github.com/madoar/angular-archwizard/actions)
 [![Dependency Status](https://david-dm.org/madoar/angular-archwizard.svg)](https://david-dm.org/madoar/angular-archwizard)
